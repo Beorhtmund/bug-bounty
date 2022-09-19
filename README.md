@@ -1,4 +1,4 @@
 # Beorhtmund's Bug Bounty Journey
 ## PortSwigger's Web Security Academy
 ### 1. SQL Injection
-* Examining the database
+* Exploiting blind SQL injection by triggering conditional responses
