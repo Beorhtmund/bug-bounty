@@ -7,3 +7,4 @@
 * Lab: Blind SQL injection with out-of-band data exfiltration
 
 ### 2. Authentication
+#### How do authentication vulnerabilities arise?
