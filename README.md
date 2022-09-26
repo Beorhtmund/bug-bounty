@@ -1,10 +1,12 @@
 # Beorhtmund's Bug Bounty Journey
 ## PortSwigger's Web Security Academy
 ### 1. SQL Injection
-#### Exploiting blind SQL injection using out-of-band (OAST) techniques:
+#### Blind SQL injection
+##### Exploiting blind SQL injection using out-of-band (OAST) techniques:
 
 * Lab: Blind SQL injection with out-of-band interaction
 * Lab: Blind SQL injection with out-of-band data exfiltration
 
 ### 2. Authentication
-#### How do authentication vulnerabilities arise?
+#### Vulnerabilities in authentication mechanisms
+##### Flawed brute-force protection
