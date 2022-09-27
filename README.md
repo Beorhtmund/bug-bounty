@@ -9,4 +9,6 @@
 
 ### 2. Authentication
 #### Vulnerabilities in authentication mechanisms
-##### Flawed brute-force protection
+##### Account locking
+
+* Lab: Username enumeration via account lock
