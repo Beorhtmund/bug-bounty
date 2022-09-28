@@ -9,6 +9,4 @@
 
 ### 2. Authentication
 #### Vulnerabilities in authentication mechanisms
-##### Account locking
-
-* Lab: Username enumeration via account lock
+##### User rate limiting
