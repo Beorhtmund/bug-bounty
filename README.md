@@ -9,4 +9,6 @@
 
 ### 2. Authentication
 #### Vulnerabilities in authentication mechanisms
-##### User rate limiting
+##### Flawed two-factor verification logic
+
+* Lab: 2FA broken logic
