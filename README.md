@@ -1,4 +1,4 @@
-# Beorhtmund's Bug Bounty Journey
+# Bug Bounty
 ## PortSwigger's Web Security Academy
 ### 1. SQL Injection
 #### Blind SQL injection
