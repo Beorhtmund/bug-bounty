@@ -9,6 +9,6 @@
 
 ### 2. Authentication
 #### Vulnerabilities in authentication mechanisms
-##### Flawed two-factor verification logic
+##### Brute-forcing 2FA verification codes
 
-* Lab: 2FA broken logic
+* 2FA bypass using a brute-force attack
