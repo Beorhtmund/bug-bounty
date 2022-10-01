@@ -8,7 +8,11 @@
 * Lab: Blind SQL injection with out-of-band data exfiltration
 
 ### 2. Authentication
-#### Vulnerabilities in authentication mechanisms
+#### Vulnerabilities in multi-factor authentication LABS
 ##### Brute-forcing 2FA verification codes
 
-* 2FA bypass using a brute-force attack
+* Lab: 2FA bypass using a brute-force attack
+
+#### Vulnerabilities in other authentication mechanisms
+
+* Lab: Brute-forcing a stay-logged-in cookie
