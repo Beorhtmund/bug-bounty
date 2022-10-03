@@ -22,5 +22,4 @@
 
 <br />
 
-### 3. Directory traversal
-#### Reading arbitrary files via directory traversal
+### 4. Command injection
