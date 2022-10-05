@@ -26,3 +26,9 @@
 #### Exploiting blind OS command injection using out-of-band (OAST) techniques
 
 * Lab: Blind OS command injection with out-of-band interaction
+* Lab: Blind OS command injection with out-of-band data exfiltration
+
+### 5. Business Logic Vulnerabilities
+#### Examples of business logic vulnerabilities
+
+* Lab: Excessive trust in client-side controls
