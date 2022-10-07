@@ -30,6 +30,6 @@
 
 ### 5. Business Logic Vulnerabilities
 #### Examples of business logic vulnerabilities
-##### Failing to handle unconventional input
+##### Trusted users won't always remain trustworthy
 
-* Lab: Low-level logic flaw
+* Lab: Inconsistent security controls
