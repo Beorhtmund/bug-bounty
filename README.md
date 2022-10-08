@@ -32,4 +32,6 @@
 #### Examples of business logic vulnerabilities
 ##### Trusted users won't always remain trustworthy
 
-* Lab: Inconsistent security controls
+Lab: Inconsistent security controls
+
+##### Users won't always supply mandatory input
