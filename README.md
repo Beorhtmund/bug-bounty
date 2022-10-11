@@ -38,3 +38,4 @@ Lab: Inconsistent security controls
 
 ##### Users won't always supply mandatory input
 Lab: Weak isolation on dual-use endpoint
+Lab: Password reset broken logic
