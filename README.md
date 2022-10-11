@@ -32,10 +32,4 @@
 
 ### 5. Business Logic Vulnerabilities
 #### Examples of business logic vulnerabilities
-##### Trusted users won't always remain trustworthy
-
-Lab: Inconsistent security controls
-
-##### Users won't always supply mandatory input
-Lab: Weak isolation on dual-use endpoint
-Lab: Password reset broken logic
+##### Domain-specific flaws
