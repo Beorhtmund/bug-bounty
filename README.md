@@ -32,4 +32,6 @@
 
 ### 5. Business Logic Vulnerabilities
 #### Examples of business logic vulnerabilities
-##### Domain-specific flaws
+##### Providing an encryption oracle
+
+* Lab: Authentication bypass via encryption oracle
