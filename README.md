@@ -35,3 +35,7 @@
 ##### Providing an encryption oracle
 
 * Lab: Authentication bypass via encryption oracle
+
+<br />
+
+### 6. Information Disclosure
