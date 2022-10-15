@@ -30,12 +30,4 @@
 
 <br />
 
-### 5. Business Logic Vulnerabilities
-#### Examples of business logic vulnerabilities
-##### Providing an encryption oracle
-
-* Lab: Authentication bypass via encryption oracle
-
-<br />
-
 ### 6. Information Disclosure
