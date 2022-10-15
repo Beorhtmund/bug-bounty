@@ -31,3 +31,4 @@
 <br />
 
 ### 6. Information Disclosure
+#### How to find and exploit information disclosure vulnerabilities
