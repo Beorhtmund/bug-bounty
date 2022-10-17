@@ -32,4 +32,4 @@
 
 ### 6. Information Disclosure
 #### How to find and exploit information disclosure vulnerabilities
-##### Developer comments
+##### Source code disclosure via backup files
