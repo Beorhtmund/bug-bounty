@@ -39,3 +39,4 @@
 <br />
 
 ### 7. Access Control
+#### Unprotected functionality
