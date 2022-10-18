@@ -32,4 +32,10 @@
 
 ### 6. Information Disclosure
 #### How to find and exploit information disclosure vulnerabilities
-##### Source code disclosure via backup files
+##### Version control history
+
+* Lab: Information disclosure in version control history (use wget on Linux)
+
+<br />
+
+### 7. Access Control
