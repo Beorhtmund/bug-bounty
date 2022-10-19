@@ -39,4 +39,4 @@
 <br />
 
 ### 7. Access Control
-#### Unprotected functionality
+#### Horizontal privilege escalation
