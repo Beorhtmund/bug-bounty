@@ -38,5 +38,4 @@
 
 <br />
 
-### 7. Access Control
-#### Horizontal privilege escalation
+### 8. File Upload Vulnerabilities
