@@ -39,3 +39,4 @@
 <br />
 
 ### 8. File Upload Vulnerabilities
+#### Flawed file type validation
