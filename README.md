@@ -39,4 +39,14 @@
 <br />
 
 ### 8. File Upload Vulnerabilities
-#### Obfuscating file extensions
+#### Flawed validation of the file's contents
+
+* Lab: Remote code execution via polyglot web shell upload (use exiftool on linux)
+
+#### Exploiting file upload race conditions
+
+* Lab: Web shell upload via race condition
+
+<br />
+
+### 9. Server-Side Request Forgery (SSRF)
