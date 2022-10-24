@@ -50,3 +50,4 @@
 <br />
 
 ### 9. Server-Side Request Forgery (SSRF)
+#### SSRF attacks against other back-end systems
