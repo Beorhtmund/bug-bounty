@@ -50,4 +50,11 @@
 <br />
 
 ### 9. Server-Side Request Forgery (SSRF)
-#### Bypassing SSRF filters via open redirection
+#### Blind SSRF vulnerabilities
+
+* Lab: Blind SSRF with out-of-band detection
+* Lab: Blind SSRF with Shellshock exploitation
+
+<br />
+
+### 10. XXE Injection
