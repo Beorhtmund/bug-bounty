@@ -59,3 +59,9 @@
 
 ### 10. XXE Injection
 #### Blind XXE vulnerabilities
+##### Detecting blind XXE using out-of-band (OAST) techniques
+
+* Lab: Blind XXE with out-of-band interaction
+* Lab: Blind XXE with out-of-band interaction via XML parameter entities
+
+##### Exploiting blind XXE to exfiltrate data out-of-band
