@@ -65,3 +65,6 @@
 * Lab: Blind XXE with out-of-band interaction via XML parameter entities
 
 ##### Exploiting blind XXE to exfiltrate data out-of-band
+* Lab: Exploiting blind XXE to exfiltrate data using a malicious external DTD
+
+##### Exploiting blind XXE by repurposing a local DTD
