@@ -67,4 +67,5 @@
 ##### Exploiting blind XXE to exfiltrate data out-of-band
 * Lab: Exploiting blind XXE to exfiltrate data using a malicious external DTD
 
-##### Exploiting blind XXE by repurposing a local DTD
+##### Locating an existing DTD file to repurpose
+* Lab: Exploiting XXE to retrieve data by repurposing a local DTD
