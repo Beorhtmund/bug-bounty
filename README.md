@@ -67,9 +67,8 @@
 ##### Exploiting blind XXE to exfiltrate data out-of-band
 * Lab: Exploiting blind XXE to exfiltrate data using a malicious external DTD
 
-#### XXE attacks via file upload
-* Lab: Exploiting XXE via image file upload
-
 <br />
 
-### 11. Cross-site scripting (XSS)
+### 11. Cross-Site Scripting (XSS)
+#### Reflected cross-site scripting
+##### Impact of reflected XSS attacks
