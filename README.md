@@ -70,5 +70,5 @@
 <br />
 
 ### 11. Cross-Site Scripting (XSS)
-#### Reflected cross-site scripting
-##### Impact of reflected XSS attacks
+#### Stored cross-site scripting
+##### How to find and test for stored XSS vulnerabilities
