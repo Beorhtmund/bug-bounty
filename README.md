@@ -70,5 +70,5 @@
 <br />
 
 ### 11. Cross-Site Scripting (XSS)
-#### Stored cross-site scripting
-##### How to find and test for stored XSS vulnerabilities
+#### DOM-based cross-site scripting
+##### Testing JavaScript execution sinks
