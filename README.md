@@ -71,4 +71,6 @@
 
 ### 11. Cross-Site Scripting (XSS)
 #### DOM-based cross-site scripting
-##### Testing JavaScript execution sinks
+##### Exploiting DOM XSS with different sources and sinks
+
+* Labs: DOM XSS in document.write sink using source location.search
