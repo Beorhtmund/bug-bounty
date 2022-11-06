@@ -73,4 +73,4 @@
 #### DOM-based cross-site scripting
 ##### Exploiting DOM XSS with different sources and sinks
 
-* Labs: DOM XSS in document.write sink using source location.search
+* Labs: DOM XSS in innerHTML sink using source location.search
