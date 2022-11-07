@@ -71,6 +71,6 @@
 
 ### 11. Cross-Site Scripting (XSS)
 #### DOM-based cross-site scripting
-##### Exploiting DOM XSS with different sources and sinks
+##### DOM XSS in jQuery
 
-* Labs: DOM XSS in innerHTML sink using source location.search
+* Lab: DOM XSS in jQuery selector sink using a hashchange event
