@@ -71,6 +71,6 @@
 
 ### 11. Cross-Site Scripting (XSS)
 #### DOM-based cross-site scripting
-##### DOM XSS in jQuery
+##### DOM XSS in AngularJS
 
-* Lab: DOM XSS in jQuery selector sink using a hashchange event
+* Lab: DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded
