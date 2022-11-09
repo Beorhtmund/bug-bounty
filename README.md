@@ -72,5 +72,4 @@
 ### 11. Cross-Site Scripting (XSS)
 #### DOM-based cross-site scripting
 ##### DOM XSS in AngularJS
-
-* Lab: DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded
+###### Client-side template injection
