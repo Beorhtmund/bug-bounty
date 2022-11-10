@@ -72,4 +72,4 @@
 ### 11. Cross-Site Scripting (XSS)
 #### DOM-based cross-site scripting
 ##### DOM XSS in AngularJS
-###### Client-side template injection
+###### What is the AngularJS sandbox?
