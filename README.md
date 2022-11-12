@@ -71,7 +71,4 @@
 
 ### 11. Cross-Site Scripting (XSS)
 #### DOM-based cross-site scripting
-##### DOM XSS in AngularJS
-###### Constructing an advanced AngularJS sandbox escape
-
-* Lab: Reflected XSS with AngularJS sandbox escape without strings
+##### DOM XSS combined with reflected and stored data
