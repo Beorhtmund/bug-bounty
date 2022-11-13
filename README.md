@@ -72,3 +72,5 @@
 ### 11. Cross-Site Scripting (XSS)
 #### DOM-based cross-site scripting
 ##### DOM XSS combined with reflected and stored data
+
+* Lab: Reflected DOM XSS
