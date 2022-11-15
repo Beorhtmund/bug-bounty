@@ -75,3 +75,5 @@
 
 * Lab: Reflected DOM XSS
 * Lab: Stored DOM XSS
+
+##### Which sinks can lead to DOM-XSS vulnerabilities?
