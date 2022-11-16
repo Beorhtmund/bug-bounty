@@ -70,10 +70,13 @@
 <br />
 
 ### 11. Cross-Site Scripting (XSS)
-#### DOM-based cross-site scripting
-##### DOM XSS combined with reflected and stored data
+#### Exploiting cross-site scripting vulnerabilities
+##### Exploiting cross-site scripting to steal cookies
 
-* Lab: Reflected DOM XSS
-* Lab: Stored DOM XSS
+* Lab: Exploiting cross-site scripting to steal cookies
 
-##### Which sinks can lead to DOM-XSS vulnerabilities?
+##### Exploiting cross-site scripting to capture passwords
+
+* Lab: Exploiting cross-site scripting to capture passwords
+
+##### Exploiting cross-site scripting to perform CSRF
