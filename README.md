@@ -80,3 +80,9 @@
 * Lab: Exploiting cross-site scripting to capture passwords
 
 ##### Exploiting cross-site scripting to perform CSRF
+
+* Lab: Exploiting XSS to perform CSRF
+
+checkbox for above -----------------------
+
+#### How to find and test for XSS vulnerabilities
