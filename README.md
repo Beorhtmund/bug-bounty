@@ -83,7 +83,7 @@
 
 * Lab: Exploiting XSS to perform CSRF
 
-checkbox for above -----------------------
-
 #### Cross-site scripting contexts
 ##### XSS between HTML tags
+
+* Lab: Reflected XSS into HTML context with most tags and attributes blocked
