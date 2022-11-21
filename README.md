@@ -84,4 +84,4 @@
 * Lab: Exploiting XSS to perform CSRF
 
 #### Cross-site scripting contexts
-##### XSS in HTML tag attributes
+##### Breaking out of a JavaScript string
