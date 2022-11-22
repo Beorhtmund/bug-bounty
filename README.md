@@ -84,4 +84,6 @@
 * Lab: Exploiting XSS to perform CSRF
 
 #### Cross-site scripting contexts
-##### Breaking out of a JavaScript string
+##### Making use of HTML-encoding
+
+* Lab: Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and backticks Unicode-escaped
