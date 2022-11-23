@@ -84,3 +84,10 @@
 * Lab: Exploiting XSS to perform CSRF
 
 #### Content security policy
+##### Mitigating XSS attacks using CSP
+
+* Lab: Reflected XSS protected by very strict CSP, with dangling markup attack
+
+##### Bypassing CSP with policy injection
+
+* Lab: Reflected XSS protected by CSP, with CSP bypass
