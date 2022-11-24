@@ -88,6 +88,7 @@
 
 * Lab: Reflected XSS protected by very strict CSP, with dangling markup attack
 
-##### Bypassing CSP with policy injection
+#### Dangling markup injection
+##### What is dangling markup injection?
 
-* Lab: Reflected XSS protected by CSP, with CSP bypass
+* Lab: Reflected XSS protected by very strict CSP, with dangling markup attack
