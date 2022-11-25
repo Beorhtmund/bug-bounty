@@ -88,4 +88,4 @@
 
 * Lab: Reflected XSS protected by very strict CSP, with dangling markup attack
 
-#### How to prevent XSS attacks
+#### Common questions about cross-site scripting
