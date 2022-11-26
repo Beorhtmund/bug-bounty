@@ -88,4 +88,7 @@
 
 * Lab: Reflected XSS protected by very strict CSP, with dangling markup attack
 
-#### Common questions about cross-site scripting
+<br />
+
+### 12. Cross-Site Request Forgery (CSRF)
+#### How does CSRF work?
