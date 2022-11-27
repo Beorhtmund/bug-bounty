@@ -91,4 +91,4 @@
 <br />
 
 ### 12. Cross-Site Request Forgery (CSRF)
-#### How does CSRF work?
+#### How to construct a CSRF attack
