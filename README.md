@@ -91,4 +91,4 @@
 <br />
 
 ### 12. Cross-Site Request Forgery (CSRF)
-#### How to deliver a CSRF exploit
+#### Preventing CSRF attacks
