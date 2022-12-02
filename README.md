@@ -93,4 +93,4 @@
 ### 12. Cross-Site Request Forgery (CSRF)
 #### Preventing CSRF attacks
 ##### CSRF tokens
-###### How should CSRF tokens be generated?
+###### How should CSRF tokens be transmitted?
