@@ -91,5 +91,4 @@
 <br />
 
 ### 12. Cross-Site Request Forgery (CSRF)
-#### Preventing CSRF attacks
-##### SameSite cookies
+#### Common CSRF vulnerabilities
