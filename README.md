@@ -91,4 +91,4 @@
 <br />
 
 ### 12. Cross-Site Request Forgery (CSRF)
-#### Common CSRF vulnerabilities
+#### Validation of CSRF token depends on request method
