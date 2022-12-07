@@ -91,6 +91,4 @@
 <br />
 
 ### 12. Cross-Site Request Forgery (CSRF)
-#### Validation of CSRF token depends on request method
-
-* Lab: CSRF where token validation depends on request method
+#### Validation of CSRF token depends on token being present
