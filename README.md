@@ -91,6 +91,4 @@
 <br />
 
 ### 12. Cross-Site Request Forgery (CSRF)
-#### Validation of CSRF token depends on token being present
-
-* Lab: CSRF where token validation depends on token being present
+#### CSRF token is not tied to the user session
