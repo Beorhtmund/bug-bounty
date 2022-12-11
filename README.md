@@ -91,6 +91,4 @@
 <br />
 
 ### 12. Cross-Site Request Forgery (CSRF)
-#### CSRF token is not tied to the user session
-
-* Lab: CSRF where token is not tied to user session
+#### CSRF token is tied to a non-session cookie
