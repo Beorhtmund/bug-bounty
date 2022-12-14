@@ -92,3 +92,5 @@
 
 ### 12. Cross-Site Request Forgery (CSRF)
 #### CSRF token is simply duplicated in a cookie
+
+* Lab: CSRF where token is duplicated in cookie
