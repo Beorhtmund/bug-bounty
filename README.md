@@ -91,6 +91,4 @@
 <br />
 
 ### 12. Cross-Site Request Forgery (CSRF)
-#### Referer-based defenses against CSRF
-
-* Lab: CSRF where Referer validation depends on header being present
+#### Validation of Referer can be circumvented
