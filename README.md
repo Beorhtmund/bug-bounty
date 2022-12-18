@@ -92,3 +92,5 @@
 
 ### 12. Cross-Site Request Forgery (CSRF)
 #### Validation of Referer can be circumvented
+
+* Lab: CSRF with broken Referer validation
