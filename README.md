@@ -94,3 +94,7 @@
 #### Validation of Referer can be circumvented
 
 * Lab: CSRF with broken Referer validation
+
+<br />
+
+### 13. Cross-Origin Resource Sharing (CORS)
