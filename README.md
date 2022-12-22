@@ -91,4 +91,4 @@
 <br />
 
 ### 13. Cross-Origin Resource Sharing (CORS)
-#### What is CORS (cross-origin resource sharing)?
+#### Same-origin policy
