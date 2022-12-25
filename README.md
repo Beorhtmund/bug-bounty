@@ -92,3 +92,5 @@
 
 ### 13. Cross-Origin Resource Sharing (CORS)
 #### Relaxation of the same-origin policy
+##### CORS and the Access-Control-Allow-Origin response header
+###### What is the Access-Control-Allow-Origin response header?
