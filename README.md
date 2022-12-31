@@ -91,4 +91,4 @@
 <br />
 
 ### 13. Cross-Origin Resource Sharing (CORS)
-#### Vulnerabilities arising from CORS configuration issues
+#### Server-generated ACAO header from client-specified Origin header
