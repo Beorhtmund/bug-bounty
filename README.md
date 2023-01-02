@@ -94,3 +94,5 @@
 #### Server-generated ACAO header from client-specified Origin header
 
 * Lab: CORS vulnerability with basic origin reflection
+
+#### Errors parsing Origin headers
