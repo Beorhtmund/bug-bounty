@@ -95,4 +95,4 @@
 
 * Lab: CORS vulnerability with basic origin reflection
 
-#### Errors parsing Origin headers
+#### Whitelisted null origin value
