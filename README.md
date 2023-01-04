@@ -96,3 +96,5 @@
 * Lab: CORS vulnerability with basic origin reflection
 
 #### Whitelisted null origin value
+
+* Lab : CORS vulnerability with trusted null origin
