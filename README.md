@@ -98,3 +98,8 @@
 #### Whitelisted null origin value
 
 * Lab : CORS vulnerability with trusted null origin
+
+12 csrf/bypassing-samesite-restrictions
+labs 4
+Bypassing SameSite cookie restrictions
+What is a site in the context of SameSite cookies?
