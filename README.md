@@ -102,4 +102,4 @@
 12 csrf/bypassing-samesite-restrictions
 labs 4
 Bypassing SameSite cookie restrictions
-None
+Bypassing SameSite Lax restrictions using GET requests
