@@ -103,3 +103,5 @@
 labs 4
 Bypassing SameSite cookie restrictions
 Bypassing SameSite Lax restrictions using GET requests
+
+* Lab: SameSite Lax bypass via method override
