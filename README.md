@@ -99,9 +99,9 @@
 
 * Lab : CORS vulnerability with trusted null origin
 
-12 csrf/bypassing-samesite-restrictions
+### 12 csrf/bypassing-samesite-restrictions
 labs 4
-Bypassing SameSite cookie restrictions
-Bypassing SameSite Lax restrictions using GET requests
+#### Bypassing SameSite cookie restrictions
 
 * Lab: SameSite Lax bypass via method override
+* Lab: SameSite Strict bypass via client-side redirect
