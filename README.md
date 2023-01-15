@@ -106,3 +106,4 @@ labs 4
 * Lab: SameSite Lax bypass via method override
 * Lab: SameSite Strict bypass via client-side redirect
 * Lab: SameSite Strict bypass via sibling domain
+* Lab: SameSite Lax bypass via cookie refresh
