@@ -99,7 +99,7 @@
 
 * Lab : CORS vulnerability with trusted null origin
 
-### 12. csrf
+### 12. Cross-Site Request Forgery (CSRF)
 #### Bypassing SameSite cookie restrictions
 
 * Lab: SameSite Lax bypass via method override
