@@ -98,6 +98,8 @@
 #### Whitelisted null origin value
 
 * Lab : CORS vulnerability with trusted null origin
+Exploiting XSS via CORS trust relationships
+
 
 ### 12. Cross-Site Request Forgery (CSRF)
 #### Bypassing SameSite cookie restrictions
