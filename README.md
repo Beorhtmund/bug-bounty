@@ -104,7 +104,6 @@ Exploiting XSS via CORS trust relationships
 ### 12. Cross-Site Request Forgery (CSRF)
 #### Bypassing SameSite cookie restrictions
 
-* Lab: SameSite Lax bypass via method override
 * Lab: SameSite Strict bypass via client-side redirect
 * Lab: SameSite Strict bypass via sibling domain
 * Lab: SameSite Lax bypass via cookie refresh
