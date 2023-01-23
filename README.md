@@ -90,6 +90,13 @@
 
 <br />
 
+### 12. Cross-Site Request Forgery (CSRF)
+#### Bypassing SameSite cookie restrictions
+
+* Lab: SameSite Strict bypass via sibling domain
+
+<be />
+
 ### 13. Cross-Origin Resource Sharing (CORS)
 #### Server-generated ACAO header from client-specified Origin header
 
@@ -97,12 +104,5 @@
 
 #### Whitelisted null origin value
 
-* Lab : CORS vulnerability with trusted null origin
+* Lab: CORS vulnerability with trusted null origin
 Exploiting XSS via CORS trust relationships
-
-
-### 12. Cross-Site Request Forgery (CSRF)
-#### Bypassing SameSite cookie restrictions
-
-* Lab: SameSite Strict bypass via sibling domain
-* Lab: SameSite Lax bypass via cookie refresh
