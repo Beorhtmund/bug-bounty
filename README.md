@@ -95,7 +95,7 @@
 
 * Lab: SameSite Strict bypass via sibling domain
 
-<be />
+<br />
 
 ### 13. Cross-Origin Resource Sharing (CORS)
 #### Server-generated ACAO header from client-specified Origin header
