@@ -105,4 +105,5 @@
 #### Whitelisted null origin value
 
 * Lab: CORS vulnerability with trusted null origin
-Exploiting XSS via CORS trust relationships
+
+#### Breaking TLS with poorly configured CORS
