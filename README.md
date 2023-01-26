@@ -106,6 +106,4 @@
 
 * Lab: CORS vulnerability with trusted null origin
 
-#### Breaking TLS with poorly configured CORS
-
-* Lab: CORS vulnerability with trusted insecure protocols
+#### Intranets and CORS without credentials
