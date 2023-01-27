@@ -107,3 +107,5 @@
 * Lab: CORS vulnerability with trusted null origin
 
 #### Intranets and CORS without credentials
+
+* Lab: CORS vulnerability with internal network pivot attack
