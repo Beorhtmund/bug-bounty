@@ -109,3 +109,8 @@
 #### Intranets and CORS without credentials
 
 * Lab: CORS vulnerability with internal network pivot attack
+
+<br />
+
+### 14. Clickjacking
+#### How to construct a basic clickjacking attack
