@@ -114,3 +114,5 @@
 
 ### 14. Clickjacking
 #### How to construct a basic clickjacking attack
+
+* Lab: Basic clickjacking with CSRF token protection
