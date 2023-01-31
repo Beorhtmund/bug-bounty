@@ -113,4 +113,6 @@
 <br />
 
 ### 14. Clickjacking
-#### Clickbandit
+#### Clickjacking with prefilled form input
+
+* Lab: Clickjacking with form input data prefilled from a URL parameter
