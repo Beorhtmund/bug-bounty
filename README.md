@@ -113,6 +113,4 @@
 <br />
 
 ### 14. Clickjacking
-#### Clickjacking with prefilled form input
-
-* Lab: Clickjacking with form input data prefilled from a URL parameter
+#### Frame busting scripts
