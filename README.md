@@ -114,3 +114,5 @@
 
 ### 14. Clickjacking
 #### Frame busting scripts
+
+* Lab: Clickjacking with a frame buster script
