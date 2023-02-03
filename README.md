@@ -113,6 +113,4 @@
 <br />
 
 ### 14. Clickjacking
-#### Frame busting scripts
-
-* Lab: Clickjacking with a frame buster script
+#### Combining clickjacking with a DOM XSS attack
