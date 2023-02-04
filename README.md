@@ -114,3 +114,5 @@
 
 ### 14. Clickjacking
 #### Combining clickjacking with a DOM XSS attack
+
+* Lab: Exploiting clickjacking vulnerability to trigger DOM-based XSS
