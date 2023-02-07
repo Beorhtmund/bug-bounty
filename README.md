@@ -113,6 +113,4 @@
 <br />
 
 ### 14. Clickjacking
-#### Multistep clickjacking
-
-* Lab: Multistep clickjacking
+#### How to prevent clickjacking attacks
