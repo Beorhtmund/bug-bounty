@@ -112,5 +112,4 @@
 
 <br />
 
-### 14. Clickjacking
-#### How to prevent clickjacking attacks
+### 15. DOM-Based Vulnerabilities
