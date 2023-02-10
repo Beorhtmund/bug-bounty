@@ -113,4 +113,4 @@
 <br />
 
 ### 15. DOM-Based Vulnerabilities
-#### What is taint flow?
+#### Common sources
