@@ -115,3 +115,4 @@
 ### 15. DOM-Based Vulnerabilities
 #### Common sources
 ##### Web messages
+###### How to construct an attack using web messages as the source
