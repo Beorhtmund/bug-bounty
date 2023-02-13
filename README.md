@@ -116,3 +116,5 @@
 #### Common sources
 ##### Web messages
 ###### How to construct an attack using web messages as the source
+
+* Lab: DOM XSS using web messages
