@@ -116,3 +116,5 @@
 #### Common sources
 ##### Web messages
 ###### Origin verification
+
+* Lab: DOM XSS using web messages and JSON.parse
