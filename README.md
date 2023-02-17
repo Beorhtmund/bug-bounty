@@ -113,8 +113,4 @@
 <br />
 
 ### 15. DOM-Based Vulnerabilities
-#### Common sources
-##### Web messages
-###### Origin verification
-
-* Lab: DOM XSS using web messages and JSON.parse
+#### Which sinks can lead to DOM-based vulnerabilities?
