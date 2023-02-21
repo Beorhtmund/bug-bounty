@@ -115,6 +115,4 @@
 ### 15. DOM-Based Vulnerabilities
 #### Which sinks can lead to DOM-based vulnerabilities?
 ##### Open redirection
-###### What is the impact of DOM-based open redirection?
-
-* Lab: DOM-based open redirection
+###### Which sinks can lead to DOM-based open-redirection vulnerabilities?
