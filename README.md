@@ -114,5 +114,5 @@
 
 ### 15. DOM-Based Vulnerabilities
 #### Which sinks can lead to DOM-based vulnerabilities?
-##### Open redirection
-###### Which sinks can lead to DOM-based open-redirection vulnerabilities?
+##### Cookie manipulation
+###### What is DOM-based cookie manipulation?
