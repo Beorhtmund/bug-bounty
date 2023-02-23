@@ -116,3 +116,5 @@
 #### Which sinks can lead to DOM-based vulnerabilities?
 ##### Cookie manipulation
 ###### What is DOM-based cookie manipulation?
+
+* Lab: DOM-based cookie manipulation
