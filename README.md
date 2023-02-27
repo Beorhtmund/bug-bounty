@@ -114,5 +114,5 @@
 
 ### 15. DOM-Based Vulnerabilities
 #### Which sinks can lead to DOM-based vulnerabilities?
-##### JavaScript Injection
-###### What is the impact of a DOM-based JavaScript-injection attack?
+##### Document-domain manipulation
+###### What is DOM-based document-domain manipulation?
