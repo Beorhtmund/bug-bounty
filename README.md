@@ -115,4 +115,4 @@
 ### 15. DOM-Based Vulnerabilities
 #### Which sinks can lead to DOM-based vulnerabilities?
 ##### Document-domain manipulation
-###### What is DOM-based document-domain manipulation?
+###### Which sinks can lead to DOM-based document-domain manipulation vulnerabilities?
