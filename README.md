@@ -116,3 +116,4 @@
 #### Which sinks can lead to DOM-based vulnerabilities?
 ##### Document-domain manipulation --- check
 ##### WebSocket-URL poisoning
+###### What is DOM-based WebSocket-URL poisoning?
