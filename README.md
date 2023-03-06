@@ -117,4 +117,5 @@
 ##### Document-domain manipulation --- check
 ##### WebSocket-URL poisoning --- check
 ##### Link manipulation --- check
-##### Web message manipulation
+##### Web message manipulation --- check
+##### Ajax request-header manipulation
