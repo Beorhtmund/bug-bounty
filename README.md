@@ -119,3 +119,4 @@
 ##### Link manipulation --- check
 ##### Web message manipulation --- check
 ##### Ajax request-header manipulation
+###### What is the impact of DOM-based Ajax request-header manipulation?
