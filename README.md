@@ -118,5 +118,5 @@
 ##### WebSocket-URL poisoning --- check
 ##### Link manipulation --- check
 ##### Web message manipulation --- check
-##### Ajax request-header manipulation
-###### What is the impact of DOM-based Ajax request-header manipulation?
+##### Ajax request-header manipulation --- check
+##### Local file-path manipulation
