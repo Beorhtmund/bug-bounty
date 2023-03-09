@@ -119,4 +119,5 @@
 ##### Link manipulation --- check
 ##### Web message manipulation --- check
 ##### Ajax request-header manipulation --- check
-##### Local file-path manipulation
+##### Local file-path manipulation --- check
+##### Client-side SQL injection
