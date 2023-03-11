@@ -120,5 +120,5 @@
 ##### Web message manipulation --- check
 ##### Ajax request-header manipulation --- check
 ##### Local file-path manipulation --- check
-##### Client-side SQL injection
-###### What is the impact of DOM-based client-side SQL injection?
+##### Client-side SQL injection --- check
+##### HTML5-storage manipulation
