@@ -122,4 +122,5 @@
 ##### Local file-path manipulation --- check
 ##### Client-side SQL injection --- check
 ##### HTML5-storage manipulation --- check
-##### Client-side XPath injection
+##### Client-side XPath injection --- check
+##### Client-side JSON injection
