@@ -124,4 +124,5 @@
 ##### HTML5-storage manipulation --- check
 ##### Client-side XPath injection --- check
 ##### Client-side JSON injection --- check
-##### DOM-data manipulation
+##### DOM-data manipulation --- check
+##### Denial of service
