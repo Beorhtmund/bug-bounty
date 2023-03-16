@@ -125,4 +125,5 @@
 ##### Client-side XPath injection --- check
 ##### Client-side JSON injection --- check
 ##### DOM-data manipulation --- check
-##### Denial of service
+##### Denial of service --- check
+#### How to prevent DOM-based taint-flow vulnerabilities
