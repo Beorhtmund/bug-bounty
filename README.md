@@ -126,4 +126,4 @@
 ##### Client-side JSON injection --- check
 ##### DOM-data manipulation --- check
 ##### Denial of service --- check
-#### How to prevent DOM-based taint-flow vulnerabilities
+#### DOM clobbering
