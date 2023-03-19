@@ -127,4 +127,4 @@
 ##### DOM-data manipulation --- check
 ##### Denial of service --- check
 #### DOM clobbering
-##### What is DOM clobbering?
+##### How to exploit DOM-clobbering vulnerabilities
