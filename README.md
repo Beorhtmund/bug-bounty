@@ -128,3 +128,5 @@
 ##### Denial of service --- check
 #### DOM clobbering
 ##### How to exploit DOM-clobbering vulnerabilities
+
+* Lab: Exploiting DOM clobbering to enable XSS
