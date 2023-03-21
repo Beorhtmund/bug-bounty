@@ -113,20 +113,5 @@
 <br />
 
 ### 15. DOM-Based Vulnerabilities
-#### Which sinks can lead to DOM-based vulnerabilities?
-##### Document-domain manipulation --- check
-##### WebSocket-URL poisoning --- check
-##### Link manipulation --- check
-##### Web message manipulation --- check
-##### Ajax request-header manipulation --- check
-##### Local file-path manipulation --- check
-##### Client-side SQL injection --- check
-##### HTML5-storage manipulation --- check
-##### Client-side XPath injection --- check
-##### Client-side JSON injection --- check
-##### DOM-data manipulation --- check
-##### Denial of service --- check
 #### DOM clobbering
 ##### How to exploit DOM-clobbering vulnerabilities
-
-* Lab: Exploiting DOM clobbering to enable XSS
