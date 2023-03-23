@@ -112,8 +112,4 @@
 
 <br />
 
-### 15. DOM-Based Vulnerabilities
-#### DOM clobbering
-##### How to exploit DOM-clobbering vulnerabilities
-
-* Lab: Clobbering DOM attributes to bypass HTML filters
+### 16. WebSockets
