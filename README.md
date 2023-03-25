@@ -114,3 +114,4 @@
 
 ### 16. WebSockets
 #### What are WebSockets?
+##### How are WebSocket connections established?
