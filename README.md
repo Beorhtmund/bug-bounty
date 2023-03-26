@@ -114,4 +114,4 @@
 
 ### 16. WebSockets
 #### What are WebSockets?
-##### How are WebSocket connections established?
+##### What do WebSocket messages look like?
