@@ -113,5 +113,4 @@
 <br />
 
 ### 16. WebSockets
-#### What are WebSockets?
-##### What do WebSocket messages look like?
+#### Manipulating WebSocket traffic
