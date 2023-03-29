@@ -114,4 +114,4 @@
 
 ### 16. WebSockets
 #### Manipulating WebSocket traffic
-##### Replaying and generating new WebSocket messages
+##### Manipulating WebSocket connections
