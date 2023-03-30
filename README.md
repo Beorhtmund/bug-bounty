@@ -113,5 +113,4 @@
 <br />
 
 ### 16. WebSockets
-#### Manipulating WebSocket traffic
-##### Manipulating WebSocket connections
+#### WebSockets security vulnerabilities
