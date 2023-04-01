@@ -115,3 +115,5 @@
 ### 16. WebSockets
 #### WebSockets security vulnerabilities
 ##### Manipulating WebSocket messages to exploit vulnerabilities
+
+* Lab: Manipulating WebSocket messages to exploit vulnerabilities
