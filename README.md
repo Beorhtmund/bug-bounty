@@ -121,3 +121,6 @@
 ##### Manipulating the WebSocket handshake to exploit vulnerabilities
 
 * Lab: Manipulating the WebSocket handshake to exploit vulnerabilities
+
+##### Cross-site WebSockets hijacking
+then done
