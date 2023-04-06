@@ -124,4 +124,6 @@
 
 ##### Cross-site WebSockets hijacking
 ###### Performing a cross-site WebSocket hijacking attack
+
+* Lab: Cross-site WebSocket hijacking
 then done
