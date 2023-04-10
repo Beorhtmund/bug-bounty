@@ -113,8 +113,7 @@
 <br />
 
 ### 16. WebSockets
-#### WebSockets security vulnerabilities
-##### Cross-site WebSockets hijacking
-###### Performing a cross-site WebSocket hijacking attack
+#### Cross-site WebSockets hijacking
+##### Performing a cross-site WebSocket hijacking attack
 
 * Lab: Cross-site WebSocket hijacking
