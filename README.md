@@ -117,3 +117,8 @@
 ##### Performing a cross-site WebSocket hijacking attack
 
 * Lab: Cross-site WebSocket hijacking
+
+<br />
+
+### 17. Insecure Deserialization
+#### What is serialization?
