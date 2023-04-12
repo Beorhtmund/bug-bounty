@@ -121,4 +121,4 @@
 <br />
 
 ### 17. Insecure Deserialization
-#### What is serialization?
+#### What is insecure deserialization?
