@@ -121,4 +121,4 @@
 <br />
 
 ### 17. Insecure Deserialization
-#### How do insecure deserialization vulnerabilities arise?
+#### What is the impact of insecure deserialization?
