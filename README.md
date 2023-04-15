@@ -121,4 +121,4 @@
 <br />
 
 ### 17. Insecure Deserialization
-#### What is the impact of insecure deserialization?
+#### How to exploit insecure deserialization vulnerabilities
