@@ -121,4 +121,4 @@
 <br />
 
 ### 17. Insecure Deserialization
-#### How to exploit insecure deserialization vulnerabilities
+#### Exploiting insecure deserialization vulnerabilities
