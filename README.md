@@ -121,4 +121,4 @@
 <br />
 
 ### 17. Insecure Deserialization
-#### How to identify insecure deserialization
+#### PHP serialization format
