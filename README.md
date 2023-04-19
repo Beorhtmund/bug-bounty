@@ -121,4 +121,4 @@
 <br />
 
 ### 17. Insecure Deserialization
-#### PHP serialization format
+#### Java serialization format
