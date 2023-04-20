@@ -121,4 +121,4 @@
 <br />
 
 ### 17. Insecure Deserialization
-#### Java serialization format
+#### Manipulating serialized objects
