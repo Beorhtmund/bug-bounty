@@ -121,4 +121,4 @@
 <br />
 
 ### 17. Insecure Deserialization
-#### Manipulating serialized objects
+#### Modifying object attributes
