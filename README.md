@@ -122,3 +122,5 @@
 
 ### 17. Insecure Deserialization
 #### Modifying object attributes
+
+* Lab: Modifying serialized objects
