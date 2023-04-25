@@ -124,5 +124,5 @@
 #### Modifying object attributes
 
 * Lab: Modifying serialized objects
-then done
+
 #### How to prevent insecure deserialization vulnerabilities done
