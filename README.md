@@ -125,4 +125,6 @@
 
 * Lab: Modifying serialized objects
 
+#### Modifying data types
+
 #### How to prevent insecure deserialization vulnerabilities done
