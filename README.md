@@ -131,4 +131,6 @@
 
 #### Using application functionality
 
+* Lab: Using application functionality to exploit insecure deserialization
+
 #### How to prevent insecure deserialization vulnerabilities done
