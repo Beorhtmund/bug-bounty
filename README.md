@@ -133,4 +133,6 @@
 
 * Lab: Using application functionality to exploit insecure deserialization
 
+#### Magic methods
+
 #### How to prevent insecure deserialization vulnerabilities done
