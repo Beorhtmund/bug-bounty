@@ -135,4 +135,6 @@
 
 #### Injecting arbitrary objects
 
+* Lab: Arbitrary object injection in PHP
+
 #### How to prevent insecure deserialization vulnerabilities done
