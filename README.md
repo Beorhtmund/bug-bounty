@@ -137,6 +137,6 @@
 
 * Lab: Arbitrary object injection in PHP
 
-#### Working with pre-built gadget chains
+#### ysoserial
 
 #### How to prevent insecure deserialization vulnerabilities done
