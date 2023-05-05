@@ -139,4 +139,6 @@
 
 #### ysoserial
 
+* Lab: Exploiting Java deserialization with Apache Commons
+
 #### How to prevent insecure deserialization vulnerabilities done
