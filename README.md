@@ -141,4 +141,8 @@
 
 * Lab: Exploiting Java deserialization with Apache Commons
 
+#### PHP Generic Gadget Chains
+
+* Lab: Exploiting PHP deserialization with a pre-built gadget chain
+
 #### How to prevent insecure deserialization vulnerabilities done
