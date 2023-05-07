@@ -145,4 +145,8 @@
 
 * Lab: Exploiting PHP deserialization with a pre-built gadget chain
 
+#### Working with documented gadget chains
+
+* Lab: Exploiting Ruby deserialization using a documented gadget chain
+
 #### How to prevent insecure deserialization vulnerabilities done
