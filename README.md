@@ -149,4 +149,6 @@
 
 * Lab: Exploiting Ruby deserialization using a documented gadget chain
 
+#### Creating your own exploit
+
 #### How to prevent insecure deserialization vulnerabilities done
