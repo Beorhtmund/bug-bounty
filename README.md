@@ -156,4 +156,6 @@
 
 #### PHAR deserialization
 
+* Lab: Using PHAR deserialization to deploy a custom gadget chain
+
 #### How to prevent insecure deserialization vulnerabilities done
