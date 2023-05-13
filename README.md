@@ -157,3 +157,7 @@
 #### PHAR deserialization
 
 * Lab: Using PHAR deserialization to deploy a custom gadget chain
+
+<br />
+
+### 18. Server-Side Template Injection
