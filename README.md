@@ -121,10 +121,6 @@
 <br />
 
 ### 17. Insecure Deserialization
-#### Modifying data types
-
-* Lab: Modifying serialized data types
-
 #### Using application functionality
 
 * Lab: Using application functionality to exploit insecure deserialization
