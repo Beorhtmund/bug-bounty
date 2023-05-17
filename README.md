@@ -121,10 +121,6 @@
 <br />
 
 ### 17. Insecure Deserialization
-#### Using application functionality
-
-* Lab: Using application functionality to exploit insecure deserialization
-
 #### Injecting arbitrary objects
 
 * Lab: Arbitrary object injection in PHP
