@@ -121,10 +121,6 @@
 <br />
 
 ### 17. Insecure Deserialization
-#### Injecting arbitrary objects
-
-* Lab: Arbitrary object injection in PHP
-
 #### ysoserial
 
 * Lab: Exploiting Java deserialization with Apache Commons
