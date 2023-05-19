@@ -136,7 +136,6 @@
 #### Creating your own exploit
 
 * Lab: Developing a custom gadget chain for Java deserialization
-* Lab: Developing a custom gadget chain for PHP deserialization
 
 #### PHAR deserialization
 
