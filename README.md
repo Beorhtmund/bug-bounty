@@ -144,4 +144,4 @@
 <br />
 
 ### 18. Server-Side Template Injection
-#### What is server-side template injection?
+#### What is the impact of server-side template injection?
