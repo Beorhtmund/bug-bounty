@@ -144,4 +144,4 @@
 <br />
 
 ### 18. Server-Side Template Injection
-#### What is the impact of server-side template injection?
+#### How do server-side template injection vulnerabilities arise?
