@@ -144,4 +144,4 @@
 <br />
 
 ### 18. Server-Side Template Injection
-#### Constructing a server-side template injection attack
+#### Detect
