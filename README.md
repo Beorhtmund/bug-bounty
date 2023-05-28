@@ -145,3 +145,4 @@
 
 ### 18. Server-Side Template Injection
 #### Exploit
+##### Exploiting server-side template injection vulnerabilities
