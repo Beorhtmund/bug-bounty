@@ -147,3 +147,5 @@
 #### Exploit
 ##### Exploiting server-side template injection vulnerabilities
 ###### Learn the basic template syntax
+
+* Lab: Basic server-side template injection
