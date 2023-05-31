@@ -149,3 +149,4 @@
 ###### Learn the basic template syntax
 
 * Lab: Basic server-side template injection
+* Lab: Basic server-side template injection (code context)
