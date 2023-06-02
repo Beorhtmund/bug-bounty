@@ -146,5 +146,4 @@
 ### 18. Server-Side Template Injection
 #### Exploit
 ##### Exploiting server-side template injection vulnerabilities
-###### Learn the basic template syntax
-* Lab: Basic server-side template injection (code context)
+###### Read about the security implications
