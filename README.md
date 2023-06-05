@@ -147,3 +147,5 @@
 #### Exploit
 ##### Exploiting server-side template injection vulnerabilities
 ###### Look for known exploits
+
+* Lab: Server-side template injection in an unknown language with a documented exploit
