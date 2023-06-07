@@ -145,4 +145,4 @@
 
 ### 18. Server-Side Template Injection
 #### Exploit
-##### Explore
+##### Developer-supplied objects
