@@ -145,6 +145,4 @@
 
 ### 18. Server-Side Template Injection
 #### Exploit
-##### Developer-supplied objects
-
-* Lab: Server-side template injection information disclosure via user-supplied objects
+##### Create a custom attack
