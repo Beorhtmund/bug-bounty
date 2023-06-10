@@ -145,4 +145,4 @@
 
 ### 18. Server-Side Template Injection
 #### Exploit
-##### Create a custom attack
+##### Constructing a custom exploit using an object chain
