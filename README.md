@@ -145,6 +145,4 @@
 
 ### 18. Server-Side Template Injection
 #### Exploit
-##### Constructing a custom exploit using an object chain
-
-* Lab: Server-side template injection in a sandboxed environment
+##### Constructing a custom exploit using developer-supplied objects
