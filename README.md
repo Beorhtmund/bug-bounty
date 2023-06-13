@@ -145,4 +145,4 @@
 
 ### 18. Server-Side Template Injection
 #### Exploit
-##### Constructing a custom exploit using developer-supplied objects
+##### Server-side template injection with a custom exploit
