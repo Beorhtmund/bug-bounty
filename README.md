@@ -143,6 +143,4 @@
 
 <br />
 
-### 18. Server-Side Template Injection
-#### Exploit
-##### Server-side template injection with a custom exploit
+### 19. Web cache poisoning
