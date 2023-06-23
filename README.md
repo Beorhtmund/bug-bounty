@@ -144,4 +144,4 @@
 <br />
 
 ### 19. Web cache poisoning
-#### Param Miner
+#### Elicit a harmful response from the back-end server
