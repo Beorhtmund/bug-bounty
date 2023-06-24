@@ -144,4 +144,4 @@
 <br />
 
 ### 19. Web cache poisoning
-#### Elicit a harmful response from the back-end server
+#### Get the response cached
