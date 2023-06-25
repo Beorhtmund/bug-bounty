@@ -144,4 +144,4 @@
 <br />
 
 ### 19. Web cache poisoning
-#### Get the response cached
+#### Exploiting web cache poisoning vulnerabilities
