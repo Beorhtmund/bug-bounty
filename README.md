@@ -145,4 +145,4 @@
 
 ### 19. Web cache poisoning
 #### Exploiting web cache poisoning vulnerabilities
-##### Exploiting cache design flaws
+##### Using web cache poisoning to deliver an XSS attack
