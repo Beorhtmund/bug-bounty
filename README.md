@@ -146,3 +146,5 @@
 ### 19. Web cache poisoning
 #### Exploiting web cache poisoning vulnerabilities
 ##### Using web cache poisoning to exploit unsafe handling of resource imports
+
+* Lab: Web cache poisoning with an unkeyed header
