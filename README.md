@@ -150,3 +150,5 @@
 * Lab: Web cache poisoning with an unkeyed header
 
 ##### Using web cache poisoning to exploit cookie-handling vulnerabilities
+
+* Lab: Web cache poisoning with an unkeyed cookie
