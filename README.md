@@ -156,3 +156,5 @@
 ##### Using multiple headers to exploit web cache poisoning vulnerabilities
 
 * Lab: Web cache poisoning with multiple headers
+
+##### Exploiting responses that expose too much information
