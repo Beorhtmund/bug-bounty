@@ -158,3 +158,4 @@
 * Lab: Web cache poisoning with multiple headers
 
 ##### Exploiting responses that expose too much information
+###### Vary header
