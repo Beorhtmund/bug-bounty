@@ -159,3 +159,5 @@
 
 ##### Exploiting responses that expose too much information
 ###### Vary header
+
+* Lab: Targeted web cache poisoning using an unknown header
