@@ -161,3 +161,5 @@
 ###### Vary header
 
 * Lab: Targeted web cache poisoning using an unknown header
+
+##### Using web cache poisoning to exploit DOM-based vulnerabilities
