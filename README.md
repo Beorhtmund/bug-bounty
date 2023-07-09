@@ -165,3 +165,7 @@
 ##### Using web cache poisoning to exploit DOM-based vulnerabilities
 
 * Lab: Web cache poisoning to exploit a DOM vulnerability via a cache with strict cacheability criteria
+
+##### Chaining web cache poisoning vulnerabilities
+
+* Lab: Combining web cache poisoning vulnerabilities
