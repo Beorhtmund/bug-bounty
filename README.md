@@ -169,3 +169,5 @@
 ##### Chaining web cache poisoning vulnerabilities
 
 * Lab: Combining web cache poisoning vulnerabilities
+
+##### Exploiting cache implementation flaws
