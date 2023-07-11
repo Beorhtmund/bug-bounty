@@ -171,3 +171,4 @@
 * Lab: Combining web cache poisoning vulnerabilities
 
 ##### Exploiting cache implementation flaws
+###### Cache key flaws
