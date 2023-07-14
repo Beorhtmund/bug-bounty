@@ -171,4 +171,4 @@
 * Lab: Combining web cache poisoning vulnerabilities
 
 ##### Exploiting cache implementation flaws
-###### Identify a suitable cache oracle
+###### Probe key handling
