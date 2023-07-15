@@ -171,4 +171,4 @@
 * Lab: Combining web cache poisoning vulnerabilities
 
 ##### Exploiting cache implementation flaws
-###### Probe key handling
+###### Identify an exploitable gadget
