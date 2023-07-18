@@ -171,4 +171,4 @@
 * Lab: Combining web cache poisoning vulnerabilities
 
 ##### Exploiting cache implementation flaws
-###### Unkeyed port
+###### Unkeyed query string
