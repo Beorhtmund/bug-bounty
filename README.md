@@ -172,3 +172,5 @@
 
 ##### Exploiting cache implementation flaws
 ###### Exploiting an unkeyed query string
+
+* Lab: Web cache poisoning via an unkeyed query string
