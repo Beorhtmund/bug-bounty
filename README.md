@@ -179,4 +179,4 @@
 
 * Lab: Web cache poisoning via an unkeyed query parameter
 
-###### Cache parameter cloaking
+###### Exploiting parameter parsing quirks
