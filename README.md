@@ -180,3 +180,5 @@
 * Lab: Web cache poisoning via an unkeyed query parameter
 
 ###### Exploiting parameter parsing quirks
+
+* Lab: Parameter cloaking
