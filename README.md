@@ -182,3 +182,5 @@
 ###### Exploiting parameter parsing quirks
 
 * Lab: Parameter cloaking
+
+###### Exploiting fat GET support
