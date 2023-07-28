@@ -184,3 +184,5 @@
 * Lab: Parameter cloaking
 
 ###### Exploiting fat GET support
+
+* Lab: Web cache poisoning via a fat GET request
