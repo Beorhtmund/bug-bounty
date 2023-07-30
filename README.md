@@ -187,4 +187,4 @@
 
 * Lab: Web cache poisoning via a fat GET request
 
-###### Exploiting dynamic content in resource imports
+###### Normalized cache keys
