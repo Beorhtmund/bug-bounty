@@ -188,3 +188,5 @@
 * Lab: Web cache poisoning via a fat GET request
 
 ###### Normalized cache keys
+
+* Lab: URL normalization
