@@ -190,3 +190,5 @@
 ###### Normalized cache keys
 
 * Lab: URL normalization
+
+###### Cache key injection
