@@ -192,3 +192,5 @@
 * Lab: URL normalization
 
 ###### Cache key injection
+
+* Lab: Cache key injection
