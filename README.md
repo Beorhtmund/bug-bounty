@@ -195,4 +195,4 @@
 
 * Lab: Cache key injection
 
-###### Poisoning internal caches
+###### How to identify internal caches
