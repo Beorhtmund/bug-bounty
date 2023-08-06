@@ -198,3 +198,5 @@
 ###### How to identify internal caches
 
 * Lab: Internal cache poisoning
+
+###### Testing internal caches safely
