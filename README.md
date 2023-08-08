@@ -143,7 +143,7 @@
 
 <br />
 
-### 19. Web cache poisoning
+### 20. Web cache poisoning
 #### Exploiting web cache poisoning vulnerabilities
 ##### Using web cache poisoning to exploit unsafe handling of resource imports
 
@@ -198,3 +198,7 @@
 ###### How to identify internal caches
 
 * Lab: Internal cache poisoning
+
+<br />
+
+### 21. HTTP Host header attacks
