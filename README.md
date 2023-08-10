@@ -202,4 +202,4 @@
 <br />
 
 ### 21. HTTP Host header attacks
-#### What is the HTTP Host header?
+#### What is the purpose of the HTTP Host header?
