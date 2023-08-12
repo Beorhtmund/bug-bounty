@@ -202,4 +202,4 @@
 <br />
 
 ### 21. HTTP Host header attacks
-#### Virtual hosting
+#### Routing traffic via an intermediary
