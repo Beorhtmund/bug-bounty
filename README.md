@@ -202,4 +202,4 @@
 <br />
 
 ### 21. HTTP Host header attacks
-#### Routing traffic via an intermediary
+#### How does the HTTP Host header solve this problem?
