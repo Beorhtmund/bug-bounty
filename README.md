@@ -202,4 +202,4 @@
 <br />
 
 ### 21. HTTP Host header attacks
-#### How do HTTP Host header vulnerabilities arise?
+#### Exploiting HTTP Host header vulnerabilities
