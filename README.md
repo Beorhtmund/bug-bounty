@@ -203,3 +203,4 @@
 
 ### 21. HTTP Host header attacks
 #### Exploiting HTTP Host header vulnerabilities
+##### How to test for vulnerabilities using the HTTP Host header
