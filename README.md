@@ -203,4 +203,4 @@
 
 ### 21. HTTP Host header attacks
 #### Exploiting HTTP Host header vulnerabilities
-##### Supply an absolute URL
+##### Add line wrapping
