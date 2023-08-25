@@ -203,4 +203,4 @@
 
 ### 21. HTTP Host header attacks
 #### Exploiting HTTP Host header vulnerabilities
-##### Other techniques
+##### Inject host override headers
