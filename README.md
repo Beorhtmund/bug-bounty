@@ -204,3 +204,4 @@
 ### 21. HTTP Host header attacks
 #### Exploiting HTTP Host header vulnerabilities
 ##### How to exploit the HTTP Host header
+###### Password reset poisoning
