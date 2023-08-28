@@ -205,3 +205,4 @@
 #### Exploiting HTTP Host header vulnerabilities
 ##### How to exploit the HTTP Host header
 ###### Password reset poisoning
+####### How does a password reset work?
