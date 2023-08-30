@@ -206,3 +206,5 @@
 ##### How to exploit the HTTP Host header
 ###### Password reset poisoning
 ###### How to construct a password reset poisoning attackd reset work?
+
+* Lab: Basic password reset poisoning
