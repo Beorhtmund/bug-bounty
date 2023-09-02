@@ -210,3 +210,5 @@
 * Lab: Basic password reset poisoning
 * Lab: Password reset poisoning via middleware
 * Lab: Password reset poisoning via dangling markup
+
+###### Web cache poisoning via the Host header
