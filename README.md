@@ -212,3 +212,5 @@
 * Lab: Password reset poisoning via dangling markup
 
 ###### Web cache poisoning via the Host header
+
+* Lab: Web cache poisoning via ambiguous requests
