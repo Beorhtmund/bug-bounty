@@ -215,4 +215,4 @@
 
 * Lab: Web cache poisoning via ambiguous requests
 
-###### Exploiting classic server-side vulnerabilities
+###### Accessing restricted functionality
