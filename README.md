@@ -216,3 +216,5 @@
 * Lab: Web cache poisoning via ambiguous requests
 
 ###### Accessing restricted functionality
+
+* Lab: Host header authentication bypass
