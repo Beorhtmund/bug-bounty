@@ -218,3 +218,5 @@
 ###### Accessing restricted functionality
 
 * Lab: Host header authentication bypass
+
+###### Accessing internal websites with virtual host brute-forcing
