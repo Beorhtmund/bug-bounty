@@ -219,4 +219,4 @@
 
 * Lab: Host header authentication bypass
 
-###### Accessing internal websites with virtual host brute-forcing
+###### Routing-based SSRF
