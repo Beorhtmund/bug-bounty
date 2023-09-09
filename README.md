@@ -220,3 +220,5 @@
 * Lab: Host header authentication bypass
 
 ###### Routing-based SSRF
+
+* Lab: Routing-based SSRF
