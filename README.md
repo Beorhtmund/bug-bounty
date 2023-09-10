@@ -222,3 +222,4 @@
 ###### Routing-based SSRF
 
 * Lab: Routing-based SSRF
+* Lab: SSRF via flawed request parsing
