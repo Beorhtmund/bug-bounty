@@ -225,3 +225,5 @@
 * Lab: SSRF via flawed request parsing
 
 ###### Connection state attacks
+
+* Lab: Host validation bypass via connection state attack
