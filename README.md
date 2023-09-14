@@ -228,4 +228,4 @@
 
 * Lab: Host validation bypass via connection state attack
 
-###### SSRF via a malformed request line
+###### Exploiting classic server-side vulnerabilities
