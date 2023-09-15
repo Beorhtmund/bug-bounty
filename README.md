@@ -1,4 +1,9 @@
 # Bug Bounty
+## picoCTF
+### 2.5. What the Shell!?
+
+<br />
+
 ## PortSwigger's Web Security Academy
 ### 1. SQL Injection
 #### Blind SQL injection
