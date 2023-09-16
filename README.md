@@ -1,6 +1,6 @@
 # Bug Bounty
 ## picoCTF
-### 2.5. What the Shell!?
+### 2.5.3. Shell Nav Exercise 1
 
 <br />
 
