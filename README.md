@@ -1,6 +1,6 @@
 # Bug Bounty
 ## picoCTF
-### 2.5.4. picoGym Problem
+### 3. Forensics
 
 <br />
 
