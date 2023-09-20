@@ -1,6 +1,6 @@
 # Bug Bounty
 ## picoCTF
-### 3. Forensics
+### 3.2. How to search for strings and filenames
 
 <br />
 
