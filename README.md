@@ -1,6 +1,7 @@
 # Bug Bounty
 ## picoCTF
 ### 3.2. How to search for strings and filenames
+### 3.3. Disk analysis
 
 <br />
 
