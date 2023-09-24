@@ -1,6 +1,5 @@
 # Bug Bounty
 ## picoCTF
-### 3.2. How to search for strings and filenames
 ### 3.3. Disk analysis
 ### 3.4. Packet analysis
 ### 4. Programming in python
