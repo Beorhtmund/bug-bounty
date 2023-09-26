@@ -1,7 +1,6 @@
 # Bug Bounty
 ## picoCTF
-### 3.4. Packet analysis
-### 4. Programming in python
+### 3.4.2. Packet Primer walkthrough
 
 <br />
 
