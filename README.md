@@ -1,6 +1,5 @@
 # Bug Bounty
 ## picoCTF
-### 4. Programming in python
 ### 4.1. Lists
 
 <br />
