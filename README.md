@@ -1,6 +1,6 @@
 # Bug Bounty
 ## picoCTF
-### 4.1. Lists
+### 4.2. Functions
 
 <br />
 
