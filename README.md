@@ -1,6 +1,6 @@
 # Bug Bounty
 ## picoCTF
-### 4.2. Functions
+### 4.3. Input and output
 
 <br />
 
