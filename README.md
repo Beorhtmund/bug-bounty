@@ -1,7 +1,7 @@
 # Bug Bounty
 ## picoCTF
 ### 4.3. Input and output
-### 4.4. Comments
+### 4.5. Try-except and exceptions
 
 <br />
 
