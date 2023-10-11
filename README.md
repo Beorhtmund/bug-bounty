@@ -1,6 +1,5 @@
 # Bug Bounty
 ## picoCTF
-### 4.7. ASCII
 ### 4.8. Pwntools
 ### 4.9. Http requests in python
 
