@@ -1,7 +1,6 @@
 # Bug Bounty
 ## picoCTF
-### 4.8. Pwntools
-### 4.9. Http requests in python
+### 5. Web Exploits
 
 <br />
 
