@@ -1,6 +1,6 @@
 # Bug Bounty
 ## picoCTF
-### 5.1. Html
+### 5.2. JavaScript
 
 <br />
 
