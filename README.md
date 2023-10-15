@@ -1,6 +1,6 @@
 # Bug Bounty
 ## picoCTF
-### 5.2. JavaScript
+### 5.3. Server code
 
 <br />
 
