@@ -1,6 +1,6 @@
 # Bug Bounty
 ## picoCTF
-### 5.3. Server code
+### 5.4. Cross Site Scripting (XSS)
 
 <br />
 
