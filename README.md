@@ -1,6 +1,6 @@
 # Bug Bounty
 ## picoCTF
-### 5.4. Cross Site Scripting (XSS)
+### 6. Cryptography
 
 <br />
 
