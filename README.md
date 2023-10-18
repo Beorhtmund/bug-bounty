@@ -1,6 +1,6 @@
 # Bug Bounty
 ## picoCTF
-### 6. Cryptography
+### 6.1. Practical example
 
 <br />
 
