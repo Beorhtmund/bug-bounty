@@ -3,6 +3,7 @@
 ### 6.1. Practical example
 ### 6.2. Substitution ciphers
 ### 6.3. Transposition ciphers
+### 6.4. Key ciphers
 
 <br />
 
