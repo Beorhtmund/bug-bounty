@@ -1,6 +1,5 @@
 # Bug Bounty
 ## picoCTF
-### 6.3. Transposition ciphers
 ### 6.4. Key ciphers
 ### 6.5. Modern cryptography
 ### 7. The Network
