@@ -1,6 +1,5 @@
 # Bug Bounty
 ## picoCTF
-### 6.4. Key ciphers
 ### 6.5. Modern cryptography
 ### 7. The Network
 ### 7.1. Sniffing and attack example
