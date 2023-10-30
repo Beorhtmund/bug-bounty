@@ -1,6 +1,6 @@
 # Bug Bounty
 ## picoCTF
-### 6.5. Modern cryptography
+### 6.5.1. Symmetric crypto example: AES
 ### 7. The Network
 ### 7.1. Sniffing and attack example
 ### 8. Infiltrating in a database
