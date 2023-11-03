@@ -6,6 +6,7 @@
 ### 8. Infiltrating in a database
 ### 8.1. SQL
 ### 8.2. Basic SQL injection
+### 8.3. Blind SQL injection
 
 <br />
 
