@@ -1,6 +1,5 @@
 # Bug Bounty
 ## picoCTF
-### 6.5.3. Hashing
 ### 7. The Network
 ### 7.1. Sniffing and attack example
 ### 8. Infiltrating in a database
