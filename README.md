@@ -1,6 +1,5 @@
 # Bug Bounty
 ## picoCTF
-### 7.1. Sniffing and attack example
 ### 8. Infiltrating in a database
 ### 8.1. SQL
 ### 8.2. Basic SQL injection
