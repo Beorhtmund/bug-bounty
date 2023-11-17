@@ -1,6 +1,5 @@
 # Bug Bounty
 ## picoCTF
-### 8.2. Basic SQL injection
 ### 8.3. Blind SQL injection
 ### 9. A little about C language
 ### 9.1. Some C features
