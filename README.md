@@ -1,6 +1,5 @@
 # Bug Bounty
 ## picoCTF
-### 9.1. Some C features
 ### 9.2. C Hello World!
 ### 9.3. C data types
 ### 9.4. C pointers
