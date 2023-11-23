@@ -1,6 +1,5 @@
 # Bug Bounty
 ## picoCTF
-### 9.3. C data types
 ### 9.4. C pointers
 ### 10. Binary Exploitationz
 ### 10.1. A hack example!
