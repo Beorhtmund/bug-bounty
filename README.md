@@ -4,6 +4,7 @@
 ### 10. Binary Exploitationz
 ### 10.1. A hack example!
 ### 10.2. Stack overflow attack
+### 10.3. What you need to know for a binary exploit
 
 <br />
 
