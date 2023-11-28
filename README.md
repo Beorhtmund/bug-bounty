@@ -4,6 +4,7 @@
 ### 10.2. Stack overflow attack
 ### 10.3. What you need to know for a binary exploit
 ### 10.4. Example of Execution of a program
+### 11. Assembly
 
 <br />
 
