@@ -6,6 +6,7 @@
 ### 10.4. Example of Execution of a program
 ### 11. Assembly
 ### 11.1. Registers
+### 11.2. General Registers
 
 <br />
 
