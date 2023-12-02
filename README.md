@@ -6,6 +6,7 @@
 ### 11. Assembly
 ### 11.1. Registers
 ### 11.2. General Registers
+### 11.3. Index/Pointer Registers
 
 <br />
 
