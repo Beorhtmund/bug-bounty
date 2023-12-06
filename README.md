@@ -1,6 +1,5 @@
 # Bug Bounty
 ## picoCTF
-### 10.3.1. Memory
 ### 10.4. Example of Execution of a program
 ### 11. Assembly
 ### 11.1. Registers
