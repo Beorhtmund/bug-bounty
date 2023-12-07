@@ -1,6 +1,6 @@
 # Bug Bounty
 ## picoCTF
-### 10.4. Example of Execution of a program
+### 10.4.1. GDB, Assembly and machine code
 ### 11. Assembly
 ### 11.1. Registers
 ### 11.2. General Registers
