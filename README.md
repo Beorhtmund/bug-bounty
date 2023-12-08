@@ -1,6 +1,6 @@
 # Bug Bounty
 ## picoCTF
-### 10.4.1. GDB, Assembly and machine code
+### 10.2.1.3 Little endian
 ### 11. Assembly
 ### 11.1. Registers
 ### 11.2. General Registers
