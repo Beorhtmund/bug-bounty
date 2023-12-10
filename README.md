@@ -1,6 +1,5 @@
 # Bug Bounty
 ## picoCTF
-### 10 Function Call
 ### 11. Assembly
 ### 11.1. Registers
 ### 11.2. General Registers
