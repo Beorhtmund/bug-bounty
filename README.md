@@ -1,6 +1,5 @@
 # Bug Bounty
 ## picoCTF
-### 11.3. Index/Pointer Registers
 ### 11.4. Assembly example
 
 <br />
