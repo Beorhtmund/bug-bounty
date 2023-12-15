@@ -1,6 +1,7 @@
 # Bug Bounty
-## picoCTF
-### 11.4. Assembly example
+## HTB Academy
+### Attacking Web Applications with Ffuf
+#### Recursive Fuzzing
 
 <br />
 
