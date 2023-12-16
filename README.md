@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
 ### Attacking Web Applications with Ffuf
-#### Recursive Fuzzing
+#### Filtering Results
 
 <br />
 
