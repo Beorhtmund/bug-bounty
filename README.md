@@ -1,7 +1,6 @@
 # Bug Bounty
 ## HTB Academy
 ### Attacking Web Applications with Ffuf
-#### Skills Assessment - Web Fuzzing
 
 <br />
 
