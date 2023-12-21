@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
 ### JavaScript Deobfuscation
-#### Advanced Obfuscation
+#### Skills Assessment
 
 <br />
 
