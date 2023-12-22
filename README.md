@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
-### JavaScript Deobfuscation
-#### Skills Assessment
+### Cross-Site Scripting (XSS)
+#### Reflected XSS
 
 <br />
 
