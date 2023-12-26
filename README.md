@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
 ### Cross-Site Scripting (XSS)
-#### Questions
+#### Session Hijacking
 
 <br />
 
