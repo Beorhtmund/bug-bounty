@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
 ### SQL Injection Fundamentals
-#### Intro to SQL Injections
+#### Using Comments
 
 <br />
 
