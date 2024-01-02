@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
 ### SQL Injection Fundamentals
-#### Union Injection
+#### Database Enumeration
 
 <br />
 
