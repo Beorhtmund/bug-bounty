@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
-### SQL Injection Fundamentals
-#### Skills Assessment - SQL Injection Fundamentals
+### SQLMap Essentials
+#### SQLMap Overview
 
 <br />
 
