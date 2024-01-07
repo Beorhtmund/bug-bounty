@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
 ### SQLMap Essentials
-#### SQLMap Overview
+#### SQLMap Output Description
 
 <br />
 
