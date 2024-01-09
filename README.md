@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
 ### SQLMap Essentials
-#### Running SQLMap on an HTTP Request
+#### Questions
 
 <br />
 
