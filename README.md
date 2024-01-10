@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
 ### SQLMap Essentials
-#### Questions
+#### Attack Tuning
 
 <br />
 
