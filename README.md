@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
 ### SQLMap Essentials
-#### Attack Tuning
+#### Bypassing Web Application Protections
 
 <br />
 
