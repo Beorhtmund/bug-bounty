@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
 ### SQLMap Essentials
-#### OS Exploitation
+#### Skills Assessment
 
 <br />
 
