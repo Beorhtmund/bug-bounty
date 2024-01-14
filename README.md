@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
-### SQLMap Essentials
-#### Skills Assessment
+### Command Injections
+#### Intro to Command Injections
 
 <br />
 
