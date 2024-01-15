@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
 ### Command Injections
-#### Intro to Command Injections
+#### Injecting Commands
 
 <br />
 
