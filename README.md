@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
 ### Command Injections
-#### Identifying Filters
+#### Bypassing Space Filters
 
 <br />
 
