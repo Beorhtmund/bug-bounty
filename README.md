@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
 ### Command Injections
-#### Bypassing Space Filters
+#### Bypassing Blacklisted Commands
 
 <br />
 
