@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
 ### Command Injections
-#### Bypassing Blacklisted Commands
+#### Questions
 
 <br />
 
