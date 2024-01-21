@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
 ### Command Injections
-#### Command Injection Prevention
+#### Skills Assessment
 
 <br />
 
