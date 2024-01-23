@@ -1,6 +1,7 @@
 # Bug Bounty
 ## HTB Academy
-### Command Injections
+### File Upload Attacks
+#### Intro to File Upload Attacks
 
 <br />
 
