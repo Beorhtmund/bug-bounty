@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
 ### File Upload Attacks
-#### Intro to File Upload Attacks
+#### Questions
 
 <br />
 
