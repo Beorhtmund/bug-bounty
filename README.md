@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
 ### File Upload Attacks
-#### Whitelist Filters
+#### Questions
 
 <br />
 
