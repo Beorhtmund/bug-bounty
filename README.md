@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
 ### File Upload Attacks
-#### Type Filters
+#### MIME-Type
 
 <br />
 
