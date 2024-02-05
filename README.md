@@ -1,7 +1,6 @@
 # Bug Bounty
 ## HTB Academy
 ### File Upload Attacks
-#### Skills Assessment
 
 <br />
 
