@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
 ### Server-side Attacks
-#### Nginx Reverse Proxy & AJP
+#### Apache Reverse Proxy & AJP
 
 <br />
 
