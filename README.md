@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
 ### Server-side Attacks
-#### Apache Reverse Proxy & AJP
+#### SSRF Exploitation Example
 
 <br />
 
