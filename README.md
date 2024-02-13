@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
 ### Server-side Attacks
-#### SSRF Exploitation Example
+#### Generate a Wordlist
 
 <br />
 
