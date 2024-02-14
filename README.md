@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
 ### Server-side Attacks
-#### Generate a Wordlist
+#### Recap
 
 <br />
 
