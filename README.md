@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
 ### Server-side Attacks
-#### Recap
+#### Blind SSRF
 
 <br />
 
