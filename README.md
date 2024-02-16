@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
 ### Server-side Attacks
-#### Blind SSRF
+#### Netcat Listener
 
 <br />
 
