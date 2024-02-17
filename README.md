@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
 ### Server-side Attacks
-#### Netcat Listener
+#### Server-Side Includes Overview
 
 <br />
 
