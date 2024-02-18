@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
 ### Server-side Attacks
-#### Server-Side Includes Overview
+#### Edge-Side Includes (ESI)
 
 <br />
 
