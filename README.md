@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
 ### Server-side Attacks
-#### SSTI Exploitation Example 2
+#### SSTI Exploitation Example 3
 
 <br />
 
