@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
 ### Server-side Attacks
-#### Server-Side Attacks - Skills Assessment
+#### 
 
 <br />
 
