@@ -1,7 +1,8 @@
 # Bug Bounty
 ## HTB Academy
-###
-#### 
+### Login Brute Forcing
+#### Introduction to Brute Forcing
+
 <br />
 
 ## PortSwigger's Web Security Academy
