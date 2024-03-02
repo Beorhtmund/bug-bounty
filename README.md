@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
 ### Login Brute Forcing
-#### Username Brute Force
+#### Hydra Modules
 
 <br />
 
