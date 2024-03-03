@@ -2,6 +2,7 @@
 ## HTB Academy
 ### Login Brute Forcing
 #### Hydra Modules
+#### Determine Login Parameters
 
 <br />
 
