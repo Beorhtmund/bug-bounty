@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
 ### Login Brute Forcing
-#### Determine Login Parameters
+#### Login Form Attacks
 
 <br />
 
