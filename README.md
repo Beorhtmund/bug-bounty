@@ -1,8 +1,7 @@
 # Bug Bounty
 ## HTB Academy
 ### Login Brute Forcing
-#### Login Form Attacks
-##### Questions
+#### Personalized Wordlists
 
 <br />
 
