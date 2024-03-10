@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
-### Login Brute Forcing
-#### Skills Assessment
+### Broken Authentication
+#### What is Authentication
 
 <br />
 
