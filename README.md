@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
 ### Broken Authentication
-#### What is Authentication
+#### Overview of Attacks Against Authentication
 
 <br />
 
