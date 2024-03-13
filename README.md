@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
 ### Broken Authentication
-#### Default Credentials
+#### Weak Bruteforce Protections
 
 <br />
 
