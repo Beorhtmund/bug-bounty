@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
 ### Broken Authentication
-#### Brute Forcing Passwords
+#### Questions
 
 <br />
 
