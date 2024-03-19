@@ -1,7 +1,7 @@
 # Bug Bounty
 ## HTB Academy
 ### Broken Authentication
-#### Questions
+#### Predictable Reset Token
 
 <br />
 
