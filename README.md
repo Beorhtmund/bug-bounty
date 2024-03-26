@@ -1,7 +1,6 @@
 # Bug Bounty
 ## HTB Academy
 ### Broken Authentication
-#### Authentication Credentials Handling
 
 <br />
 
