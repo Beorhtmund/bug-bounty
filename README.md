@@ -1,6 +1,7 @@
 # Bug Bounty
 ## HTB Academy
 ### Broken Authentication
+#### Guessable Answers
 
 <br />
 
