@@ -1,5 +1,4 @@
 # Bug Bounty
 ## HTB Academy
 ### Broken Authentication
-#### Cookie token tampering
-#### Remember me token
+#### Encrypted or encoded token
