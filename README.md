@@ -1,4 +1,4 @@
 # Bug Bounty
 ## HTB Academy
 ### Web Attacks
-#### Web Attacks
+#### HTTP Verb Tampering
