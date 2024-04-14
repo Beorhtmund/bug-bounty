@@ -1,4 +1,4 @@
 # Bug Bounty
 ## HTB Academy
 ### Web Attacks
-#### HTTP Verb Tampering
+#### Insecure Direct Object References (IDOR)
