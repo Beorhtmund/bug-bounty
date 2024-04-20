@@ -1,4 +1,4 @@
 # Bug Bounty
 ## HTB Academy
 ### Web Attacks
-#### Insecure Coding
+#### Bypassing Basic Authentication
