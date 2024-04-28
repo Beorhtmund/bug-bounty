@@ -2,5 +2,4 @@
 ## HTB Academy
 ### Web Attacks
 #### Bypassing Security Filters
-#### Identify
-#### Exploit
+
