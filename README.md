@@ -2,4 +2,4 @@
 ## HTB Academy
 ### Web Attacks
 #### Verb Tampering Prevention
-##### Insecure Configuration
+##### Insecure Coding
