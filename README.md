@@ -2,4 +2,4 @@
 ## HTB Academy
 ### Web Attacks
 #### Intro to IDOR
-##### What Makes an IDOR Vulnerability
+##### Impact of IDOR Vulnerabilities
