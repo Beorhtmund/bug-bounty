@@ -2,4 +2,4 @@
 ## HTB Academy
 ### Web Attacks
 #### Identifying IDORs
-##### URL Parameters & APIs
+##### AJAX Calls
