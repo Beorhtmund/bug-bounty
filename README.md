@@ -2,4 +2,4 @@
 ## HTB Academy
 ### Web Attacks
 #### Identifying IDORs
-##### AJAX Calls
+##### Understand Hashing/Encoding
