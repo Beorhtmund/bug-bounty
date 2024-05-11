@@ -2,4 +2,4 @@
 ## HTB Academy
 ### Web Attacks
 #### Identifying IDORs
-##### Understand Hashing/Encoding
+##### Compare User Roles
