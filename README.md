@@ -1,5 +1,4 @@
 # Bug Bounty
 ## HTB Academy
 ### Web Attacks
-#### Mass IDOR Enumeration
-##### Questions
+#### Bypassing Encoded References
