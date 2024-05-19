@@ -2,4 +2,4 @@
 ## HTB Academy
 ### Web Attacks
 #### Bypassing Encoded References
-##### Mass Enumeration
+##### Questions
