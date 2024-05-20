@@ -1,5 +1,4 @@
 # Bug Bounty
 ## HTB Academy
 ### Web Attacks
-#### Bypassing Encoded References
-##### Questions
+#### IDOR in Insecure APIs
