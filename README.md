@@ -2,4 +2,4 @@
 ## HTB Academy
 ### Web Attacks
 #### Local File Disclosure
-##### Identifying
+##### Reading Sensitive Files
