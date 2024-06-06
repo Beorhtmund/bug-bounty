@@ -2,4 +2,4 @@
 ## HTB Academy
 ### Web Attacks
 #### Advanced File Disclosure
-##### Advanced Exfiltration with CDATA
+##### Error Based XXE
