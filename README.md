@@ -2,4 +2,4 @@
 ## HTB Academy
 ### Web Attacks
 #### Blind Data Exfiltration
-##### Automated OOB Exfiltration
+##### Questions
