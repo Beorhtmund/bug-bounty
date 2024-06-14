@@ -2,4 +2,4 @@
 ## HTB Academy
 ### Web Attacks
 #### XXE Prevention
-##### Avoiding Outdated Components
+##### Using Safe XML Configurations
