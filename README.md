@@ -1,4 +1,4 @@
 # Bug Bounty
 ## HTB Academy
 ### File Inclusion
-#### Local File Inclusion (LFI)
+#### Examples of Vulnerable Code
