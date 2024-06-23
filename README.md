@@ -1,4 +1,4 @@
 # Bug Bounty
 ## HTB Academy
 ### File Inclusion
-#### .NET
+#### Read vs Execute
