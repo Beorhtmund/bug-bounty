@@ -2,4 +2,4 @@
 ## HTB Academy
 ### File Inclusion
 #### Basic Bypasses
-##### Approved Paths
+##### Appended Extension
