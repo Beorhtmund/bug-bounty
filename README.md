@@ -2,4 +2,4 @@
 ## HTB Academy
 ### File Inclusion
 #### PHP Filters
-##### Fuzzing for PHP Files
+##### Standard PHP Inclusion
