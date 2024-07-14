@@ -1,5 +1,4 @@
 # Bug Bounty
 ## HTB Academy
 ### File Inclusion
-#### PHP Filters
-##### Questions
+#### PHP Wrappers
