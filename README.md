@@ -2,4 +2,4 @@
 ## HTB Academy
 ### File Inclusion
 #### PHP Wrappers
-##### Data
+##### Checking PHP Configurations
