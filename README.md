@@ -2,4 +2,4 @@
 ## HTB Academy
 ### File Inclusion
 #### PHP Wrappers
-##### Checking PHP Configurations
+##### Remote Code Execution
