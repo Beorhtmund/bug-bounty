@@ -2,4 +2,4 @@
 ## HTB Academy
 ### File Inclusion
 #### PHP Wrappers
-##### Remote Code Execution
+##### Input
