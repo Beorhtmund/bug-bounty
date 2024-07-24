@@ -2,4 +2,4 @@
 ## HTB Academy
 ### File Inclusion
 #### Remote File Inclusion (RFI)
-##### Verify RFI
+##### Remote Code Execution with RFI
