@@ -2,4 +2,4 @@
 ## HTB Academy
 ### File Inclusion
 #### LFI and File Uploads
-##### Image upload
+##### Crafting Malicious Image
