@@ -2,4 +2,4 @@
 ## HTB Academy
 ### File Inclusion
 #### LFI and File Uploads
-##### Zip Upload
+##### Phar Upload
