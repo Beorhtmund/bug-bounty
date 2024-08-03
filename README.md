@@ -1,5 +1,4 @@
 # Bug Bounty
 ## HTB Academy
 ### File Inclusion
-#### LFI and File Uploads
-##### Phar Upload
+#### Log Poisoning
