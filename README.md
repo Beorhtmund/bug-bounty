@@ -2,4 +2,4 @@
 ## HTB Academy
 ### File Inclusion
 #### Automated Scanning
-##### LFI wordlists
+##### Fuzzing Server Files
