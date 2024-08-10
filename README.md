@@ -2,4 +2,4 @@
 ## HTB Academy
 ### File Inclusion
 #### Automated Scanning
-##### Fuzzing Server Files
+##### Server Webroot
