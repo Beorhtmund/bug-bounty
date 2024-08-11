@@ -2,4 +2,4 @@
 ## HTB Academy
 ### File Inclusion
 #### Automated Scanning
-##### Server Webroot
+##### Server Logs/Configurations
