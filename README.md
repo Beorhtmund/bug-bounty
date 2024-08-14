@@ -1,5 +1,4 @@
 # Bug Bounty
 ## HTB Academy
 ### File Inclusion
-#### Automated Scanning
-##### Questions
+#### File Inclusion Prevention
