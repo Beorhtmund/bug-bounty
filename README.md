@@ -1,4 +1,4 @@
 # Bug Bounty
 ## HTB Academy
 ### Session Security
-#### Session Fixation
+#### Obtaining Session Identifiers without User Interaction
