@@ -1,4 +1,4 @@
 # Bug Bounty
 ## HTB Academy
 ### Session Security
-#### Obtaining Session Identifiers without User Interaction
+#### Cross-Site Scripting (XSS)
