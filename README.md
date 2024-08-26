@@ -1,4 +1,4 @@
 # Bug Bounty
 ## HTB Academy
 ### Session Security
-#### Cross-Site Scripting (XSS)
+#### Cross-Site Request Forgery (CSRF or XSRF)
