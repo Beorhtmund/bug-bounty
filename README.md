@@ -1,4 +1,4 @@
 # Bug Bounty
 ## HTB Academy
 ### Session Security
-#### Exploiting Weak CSRF Tokens
+#### Additional CSRF Protection Bypasses
