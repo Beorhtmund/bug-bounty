@@ -1,4 +1,4 @@
 # Bug Bounty
 ## HTB Academy
 ### Session Security
-#### Remediation Advice
+#### Session Security - Skills Assessment
