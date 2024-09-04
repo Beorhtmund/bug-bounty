@@ -1,4 +1,3 @@
 # Bug Bounty
 ## HTB Academy
-### Session Security
-#### Session Security - Skills Assessment
+### Web Service & API Attacks
