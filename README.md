@@ -1,4 +1,4 @@
 # Bug Bounty
 ## HTB Academy
 ### Web Service & API Attacks
-#### Regular Expression Denial of Service (ReDoS)
+#### XML External Entity (XXE) Injection
