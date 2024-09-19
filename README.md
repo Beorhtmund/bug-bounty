@@ -1,4 +1,4 @@
 # Bug Bounty
 ## HTB Academy
 ### Hacking WordPress
-#### WordPress Structure
+#### WordPress User Roles
