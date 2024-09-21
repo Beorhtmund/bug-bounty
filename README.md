@@ -1,4 +1,4 @@
 # Bug Bounty
 ## HTB Academy
 ### Hacking WordPress
-#### WordPress Core Version Enumeration
+#### Plugins and Themes Enumeration
