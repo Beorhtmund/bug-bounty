@@ -1,4 +1,4 @@
 # Bug Bounty
 ## HTB Academy
 ### Hacking WordPress
-#### WPScan Enumeration
+#### Exploiting a Vulnerable Plugin
