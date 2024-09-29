@@ -1,4 +1,4 @@
 # Bug Bounty
 ## HTB Academy
 ### Hacking WordPress
-#### Attacking WordPress Users
+#### Remote Code Execution (RCE) via the Theme Editor
