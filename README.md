@@ -1,4 +1,3 @@
 # Bug Bounty
 ## HTB Academy
-### Hacking WordPress
-#### WSkills Assessment - WordPress
+### Bug Bounty Hunting Process
