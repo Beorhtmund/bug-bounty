@@ -1,4 +1,4 @@
 # Bug Bounty
 ## HTB Academy
 ### Bug Bounty Hunting Process
-#### Writing a Good Report
+#### Interacting with Organizations/BBP Hosts
