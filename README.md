@@ -1,4 +1,4 @@
 # Bug Bounty
 ## HTB Academy
 ### Bug Bounty Hunting Process
-#### Example 1: Reporting Stored XSS
+#### Example 2: Reporting CSRF
